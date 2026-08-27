@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a1eventdecor.example.com/sitemap.xml
